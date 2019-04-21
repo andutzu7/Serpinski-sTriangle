@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548095191 source:c:\users\vavi\documents\fractal\main.cpp
+	<iostream>
+	"graphics.h"
+	<cmath>
+
